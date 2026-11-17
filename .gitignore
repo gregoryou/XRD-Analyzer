@@ -1,0 +1,39 @@
+# Runtime and virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+
+# Experimental measurements, locally managed projects and COD databases
+*.db3
+*.db
+*.sqlite
+*.sqlite3
+*.cif
+*.rd
+*.raw
+*.udf
+*.xrdml
+*.xrdproj
+*.xlsx
+*.csv
+*.txt~
+# Local research exports and personal records
+measurements/
+data/
+reports/
+exports/
+*.bak
+*.log
+*.tmp
+.env
+.env.*
+*.pem
+*.key
+
+# Repository screenshots and documentation are tracked explicitly

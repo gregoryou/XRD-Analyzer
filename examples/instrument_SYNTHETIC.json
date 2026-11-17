@@ -1,0 +1,30 @@
+{
+  "two_theta_deg": [
+    30.0,
+    100.0
+  ],
+  "gaussian_fwhm_deg": [
+    0.08,
+    0.08
+  ],
+  "lorentzian_fwhm_deg": [
+    0.02,
+    0.02
+  ],
+  "u_gaussian_fwhm_deg": [
+    0.001,
+    0.001
+  ],
+  "u_lorentzian_fwhm_deg": [
+    0.001,
+    0.001
+  ],
+  "name": "Profil instrumentalny użytkownika",
+  "standard": "synthetic",
+  "measurement_date": "",
+  "radiation": "Cu Kα",
+  "wavelength_A": 1.540598,
+  "optics_id": "test",
+  "source_file": "",
+  "model": "linear interpolation of TCH Gaussian/Lorentzian components"
+}
